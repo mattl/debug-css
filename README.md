@@ -10,7 +10,7 @@ I simply broke out Inuit's _debug.scss and implemented it as a stand-alone style
 
 Simply include a link to the stylesheet in the head (i.e. before the </head>) of your document, like so:
 
-    <link href="https://rawgithub.com/mattl/debug-css/master/debug.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="https://raw.githubusercontent.com/mattl/debug-css/main/debug.css" media="all" rel="stylesheet" type="text/css" />
 
 **Heads up: Don't forget to remove the link to debug.css once you've finished debugging.**
 
